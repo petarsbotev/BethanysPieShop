@@ -1,4 +1,4 @@
-﻿namespace WebApplication1.Models
+﻿namespace BethanysPieShop.Models
 {
     public class Pie
     {

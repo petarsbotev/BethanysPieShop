@@ -1,0 +1,40 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore build output
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+
+# Ignore NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.symbols.nupkg
+
+# Ignore project logs
+*.log
+
+# Ignore generated files
+*.dbmdl
+*.pidb
+*.svclog
+
+# Ignore configuration files
+appsettings.*.json
+secrets.json
+
+# Ignore node_modules (if using frontend tech)
+node_modules/
+
+# Ignore other system files
+Thumbs.db
+ehthumbs.db
+*.DS_Store
