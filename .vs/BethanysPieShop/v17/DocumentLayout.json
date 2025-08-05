@@ -3,20 +3,52 @@
   "WorkspaceRootPath": "D:\\IT projects\\BethanysPieShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|d:\\it projects\\bethanyspieshop\\bethanyspieshop\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|d:\\it projects\\bethanyspieshop\\bethanyspieshop\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|d:\\it projects\\bethanyspieshop\\bethanyspieshop\\controllers\\piecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\controllers\\piecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|d:\\it projects\\bethanyspieshop\\bethanyspieshop\\taghelpers\\emailtaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\taghelpers\\emailtaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|d:\\it projects\\bethanyspieshop\\bethanyspieshop\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|d:\\it projects\\bethanyspieshop\\bethanyspieshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|d:\\it projects\\bethanyspieshop\\bethanyspieshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|d:\\it projects\\bethanyspieshop\\bethanyspieshop\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|d:\\it projects\\bethanyspieshop\\bethanyspieshop\\views\\shared\\components\\shoppingcartsummary\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\views\\shared\\components\\shoppingcartsummary\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|d:\\it projects\\bethanyspieshop\\bethanyspieshop\\views\\shared\\_piecard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\views\\shared\\_piecard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|d:\\it projects\\bethanyspieshop\\bethanyspieshop\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|d:\\it projects\\bethanyspieshop\\bethanyspieshop\\views\\pie\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\views\\pie\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|d:\\it projects\\bethanyspieshop\\bethanyspieshop\\components\\shoppingcartsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\components\\shoppingcartsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|d:\\it projects\\bethanyspieshop\\bethanyspieshop\\controllers\\piecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\controllers\\piecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|d:\\it projects\\bethanyspieshop\\bethanyspieshop\\models\\pie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +78,111 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailTagHelper.cs",
+              "DocumentMoniker": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\TagHelpers\\EmailTagHelper.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\TagHelpers\\EmailTagHelper.cs",
+              "ToolTip": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\TagHelpers\\EmailTagHelper.cs",
+              "RelativeToolTip": "BethanysPieShop\\TagHelpers\\EmailTagHelper.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T09:15:10.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "BethanysPieShop\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-05T09:02:33.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Controllers\\ContactController.cs",
+              "ToolTip": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "BethanysPieShop\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T09:01:14.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Views\\ShoppingCart\\Index.cshtml",
+              "ToolTip": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeToolTip": "BethanysPieShop\\Views\\ShoppingCart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-05T08:30:27.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BethanysPieShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-05T07:50:45.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BethanysPieShop\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-05T07:50:00.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Views\\Shared\\Components\\ShoppingCartSummary\\Default.cshtml",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Views\\Shared\\Components\\ShoppingCartSummary\\Default.cshtml",
+              "ToolTip": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Views\\Shared\\Components\\ShoppingCartSummary\\Default.cshtml",
+              "RelativeToolTip": "BethanysPieShop\\Views\\Shared\\Components\\ShoppingCartSummary\\Default.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-05T07:41:49.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShoppingCartSummary.cs",
+              "DocumentMoniker": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Components\\ShoppingCartSummary.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Components\\ShoppingCartSummary.cs",
+              "ToolTip": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Components\\ShoppingCartSummary.cs",
+              "RelativeToolTip": "BethanysPieShop\\Components\\ShoppingCartSummary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:36:21.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Pie.cs",
               "DocumentMoniker": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Models\\Pie.cs",
               "RelativeDocumentMoniker": "BethanysPieShop\\Models\\Pie.cs",
@@ -59,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Views\\Pie\\Details.cshtml",
               "RelativeDocumentMoniker": "BethanysPieShop\\Views\\Pie\\Details.cshtml",
@@ -72,20 +208,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "ShoppingCartController.cs",
               "DocumentMoniker": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Controllers\\ShoppingCartController.cs",
               "RelativeDocumentMoniker": "BethanysPieShop\\Controllers\\ShoppingCartController.cs",
               "ToolTip": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Controllers\\ShoppingCartController.cs",
               "RelativeToolTip": "BethanysPieShop\\Controllers\\ShoppingCartController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAvwBsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAArwCEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-04T16:50:12.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "PieController.cs",
               "DocumentMoniker": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Controllers\\PieController.cs",
               "RelativeDocumentMoniker": "BethanysPieShop\\Controllers\\PieController.cs",
@@ -98,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Program.cs",
               "RelativeDocumentMoniker": "BethanysPieShop\\Program.cs",
@@ -111,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "_PieCard.cshtml",
               "DocumentMoniker": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Views\\Shared\\_PieCard.cshtml",
               "RelativeDocumentMoniker": "BethanysPieShop\\Views\\Shared\\_PieCard.cshtml",
