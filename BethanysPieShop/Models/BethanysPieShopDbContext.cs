@@ -11,6 +11,8 @@ namespace BethanysPieShop.Models
         public DbSet<Pie> Pies { get; set; } = default!;
         public DbSet<Category> Categories { get; set; } = default!;
         public DbSet<ShoppingCartItem> ShoppingCartItems { get; set; } = default!;
+        public DbSet<Order> Orders { get; set; } = default!;
+        public DbSet<OrderDetail> OrderDetails { get; set; } = default!;
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
