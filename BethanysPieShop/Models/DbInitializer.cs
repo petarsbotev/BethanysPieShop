@@ -1,4 +1,9 @@
-﻿namespace BethanysPieShop.Models
+﻿using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.DependencyInjection;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace BethanysPieShop.Models
 {
     public static class DbInitializer
     {

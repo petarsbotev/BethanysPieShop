@@ -1,4 +1,7 @@
-﻿namespace BethanysPieShop.Models
+﻿using System.Collections.Generic;
+using System.Linq;
+
+namespace BethanysPieShop.Models
 {
     public class CategoryRepository : ICategoryRepository
     {

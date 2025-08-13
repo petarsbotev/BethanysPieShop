@@ -1,4 +1,6 @@
-﻿namespace BethanysPieShop.Models
+﻿using System.Collections.Generic;
+
+namespace BethanysPieShop.Models
 {
     public class Category
     {

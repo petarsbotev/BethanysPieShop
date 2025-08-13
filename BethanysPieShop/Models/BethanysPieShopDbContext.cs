@@ -1,8 +1,9 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 
 namespace BethanysPieShop.Models
 {
-    public class BethanysPieShopDbContext : DbContext
+    public class BethanysPieShopDbContext : IdentityDbContext
     {
         public BethanysPieShopDbContext(DbContextOptions<BethanysPieShopDbContext> options)
             : base(options)
@@ -16,6 +17,8 @@ namespace BethanysPieShop.Models
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            base.OnModelCreating(modelBuilder);
+
             modelBuilder.Entity<Pie>()
                 .HasOne(p => p.Category)
                 .WithMany(c => c.Pies)

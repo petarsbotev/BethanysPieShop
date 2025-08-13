@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "D:\\IT projects\\BethanysPieShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|d:\\it projects\\bethanyspieshop\\bethanyspieshop\\models\\pierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\models\\pierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|d:\\it projects\\bethanyspieshop\\bethanyspieshop\\viewmodels\\pielistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\viewmodels\\pielistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|d:\\it projects\\bethanyspieshop\\bethanyspieshop\\pages\\checkoutpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\pages\\checkoutpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|d:\\it projects\\bethanyspieshop\\bethanyspieshop\\models\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\models\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|d:\\it projects\\bethanyspieshop\\bethanyspieshop\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|d:\\it projects\\bethanyspieshop\\bethanyspieshop\\controllers\\piecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\controllers\\piecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|d:\\it projects\\bethanyspieshop\\bethanyspieshop\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|d:\\it projects\\bethanyspieshop\\bethanyspieshop\\controllers\\api\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\controllers\\api\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|d:\\it projects\\bethanyspieshop\\bethanyspieshop\\models\\ipierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|solutionrelative:bethanyspieshop\\models\\ipierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09735279-E6C4-4AA5-8512-5956F487BC33}|BethanysPieShop\\BethanysPieShop.csproj|d:\\it projects\\bethanyspieshop\\bethanyspieshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,53 +55,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PieRepository.cs",
-              "DocumentMoniker": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Models\\PieRepository.cs",
-              "RelativeDocumentMoniker": "BethanysPieShop\\Models\\PieRepository.cs",
-              "ToolTip": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Models\\PieRepository.cs",
-              "RelativeToolTip": "BethanysPieShop\\Models\\PieRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
+              "Title": "PieListViewModel.cs",
+              "DocumentMoniker": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\ViewModels\\PieListViewModel.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\ViewModels\\PieListViewModel.cs",
+              "ToolTip": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\ViewModels\\PieListViewModel.cs",
+              "RelativeToolTip": "BethanysPieShop\\ViewModels\\PieListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T13:56:20.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IPieRepository.cs",
-              "DocumentMoniker": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Models\\IPieRepository.cs",
-              "RelativeDocumentMoniker": "BethanysPieShop\\Models\\IPieRepository.cs",
-              "ToolTip": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Models\\IPieRepository.cs",
-              "RelativeToolTip": "BethanysPieShop\\Models\\IPieRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T13:14:23.128Z",
+              "WhenOpened": "2025-08-13T10:41:31.809Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SearchController.cs",
-              "DocumentMoniker": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Controllers\\Api\\SearchController.cs",
-              "RelativeDocumentMoniker": "BethanysPieShop\\Controllers\\Api\\SearchController.cs",
-              "ToolTip": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Controllers\\Api\\SearchController.cs",
-              "RelativeToolTip": "BethanysPieShop\\Controllers\\Api\\SearchController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAvwCkAAAASAAAAAAAAAA==",
+              "Title": "CheckoutPage.cshtml.cs",
+              "DocumentMoniker": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Pages\\CheckoutPage.cshtml.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Pages\\CheckoutPage.cshtml.cs",
+              "ToolTip": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Pages\\CheckoutPage.cshtml.cs",
+              "RelativeToolTip": "BethanysPieShop\\Pages\\CheckoutPage.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAASwBwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T13:07:54.727Z",
+              "WhenOpened": "2025-08-13T10:41:23.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Models\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Models\\OrderRepository.cs",
+              "ToolTip": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Models\\OrderRepository.cs",
+              "RelativeToolTip": "BethanysPieShop\\Models\\OrderRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAASwBQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:41:11.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "BethanysPieShop\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAASwB0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:41:03.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PieController.cs",
+              "DocumentMoniker": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Controllers\\PieController.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Controllers\\PieController.cs",
+              "ToolTip": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Controllers\\PieController.cs",
+              "RelativeToolTip": "BethanysPieShop\\Controllers\\PieController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwBkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:40:55.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "BethanysPieShop\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwBwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:40:48.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SearchController.cs",
+              "DocumentMoniker": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Controllers\\Api\\SearchController.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Controllers\\Api\\SearchController.cs",
+              "ToolTip": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Controllers\\Api\\SearchController.cs",
+              "RelativeToolTip": "BethanysPieShop\\Controllers\\Api\\SearchController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwC4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:40:33.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Program.cs",
               "RelativeDocumentMoniker": "BethanysPieShop\\Program.cs",
               "ToolTip": "D:\\IT projects\\BethanysPieShop\\BethanysPieShop\\Program.cs",
               "RelativeToolTip": "BethanysPieShop\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T13:02:33.84Z",
+              "WhenOpened": "2025-08-13T10:38:20.304Z",
               "EditorCaption": ""
             }
           ]

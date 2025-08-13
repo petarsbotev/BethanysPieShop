@@ -1,4 +1,6 @@
-﻿namespace BethanysPieShop.ViewModels
+﻿using System.Collections.Generic;
+
+namespace BethanysPieShop.ViewModels
 {
     public class HomeViewModel
     {
